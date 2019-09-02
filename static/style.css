@@ -1,0 +1,9 @@
+html, body {
+  font-size: 16px;
+  height: 100%;
+  width: 100%; }
+
+.default_head {
+  background-image: url(../src/assets/default_face_pic@2x.png); }
+
+/*# sourceMappingURL=style.css.map */
